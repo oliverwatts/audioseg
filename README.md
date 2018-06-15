@@ -102,7 +102,7 @@ Frame-level class probabilities are output in 2 forms (smoothed and unsmoothed) 
 python script/plot_class_probabilities.py -i $WORKDIR/classprobs/
 ```
 
-![Plot of class probabilities](https://github.com/oliverwatts/audioseg/blob/master/egs/plots/class_probs.pdf)
+![Plot of class probabilities](https://github.com/oliverwatts/audioseg/blob/master/egs/plots/class_probs.png)
 
 ### Decode episdoes
 
